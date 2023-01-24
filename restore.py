@@ -7,7 +7,7 @@ def restore(image_url):
     
     restore_input = {"img": image_url, "version": "v1.4", "scale": 2}
     model_version = "9283608cc6b7be6b65a8e44983db012355fde4132009bf99d976b2f0896856a3"
-    token = "1ae32685285182311b70c29704b5ed649a368154"
+    token = "token"
         
         
 
